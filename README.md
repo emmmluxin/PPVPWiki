@@ -1,2 +1,2 @@
-# PPVPWiki.github.io
+# PPVPWiki
 PPVP Wiki Moooooooooouse
